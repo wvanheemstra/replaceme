@@ -1,6 +1,7 @@
 {
   "author": "Willem van Heemstra",
   "name": "replaceme",
+  "private": true,
   "description": "Node commandline application to replace selected text in a file.",
   "version": "0.1.1",
   "repository": {
